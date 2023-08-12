@@ -1,6 +1,3 @@
-const cl = console.log
-const ct = console.table
-
 // Fibonacci using recursion
 
 function fibsRec(n, arr = [0, 1]) {
