@@ -9,3 +9,7 @@ Written in two solutions using iteration and recursion functions which takes a n
 ## [Merge sort](https://en.wikipedia.org/wiki/Merge_sort)
 
 A divide-and-conquer algorithm using recursion that takes an array and return the sorted array. I grew a brain muscle on this one.
+
+## Credits
+
+Thank you [hackerearth](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/) for the amazing visualizations.
